@@ -141,3 +141,7 @@ gameplay.xcworkspace/xcshareddata/gameplay.xccheckout
 /samples/spaceship/android/proguard-project.txt
 /samples/spaceship/sample-spaceship.xcodeproj/xcuserdata
 /samples/spaceship/sample-spaceship.vcxproj.user
+.vs/gameplay/v15/Solution.VC.db-wal
+.vs/gameplay/v15/Solution.VC.db-shm
+.vs/gameplay/v15/Solution.VC.db
+.vs/gameplay/v15/Browse.VC.db
